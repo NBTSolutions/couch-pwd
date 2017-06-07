@@ -1,6 +1,6 @@
 {
   "name": "couch-pwd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CouchDB salt and password generation with PBKDF2",
   "main": "index.js",
   "scripts": {
